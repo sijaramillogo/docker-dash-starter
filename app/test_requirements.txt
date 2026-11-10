@@ -1,0 +1,6 @@
+-r requirements.txt
+
+# testing requirements
+pytest>=9.1.0,<10.0.0
+requests>=2.34.0,<2.50.0
+httpx>=0.28.1,<0.50.0
